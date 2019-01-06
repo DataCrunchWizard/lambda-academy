@@ -1,11 +1,15 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: 'Khóa học Full-stack Web Developer '
+date: 2018-01-06T15:04:10.000Z
+description: From noob to pro
 tags:
-  - flavor
-  - tasting
+  - fullstack
+  - javascript
+  - python
+  - devops
+  - front-end
+  - back-end
 ---
 
 ![flavor wheel](/img/flavor_wheel.jpg)
