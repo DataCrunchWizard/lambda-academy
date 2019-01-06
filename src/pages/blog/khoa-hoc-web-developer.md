@@ -10,13 +10,11 @@ tags:
   - devops
   - front-end
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
-
-
+![flavor wheel](/img/0_hiclyadnsiyt0odu.jpg)
 
 ## Tuần 1: Web Foundations - HTML, CSS, Git
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Bạn sẽ bắt đầu với những điều cơ bản nh
 
 * producers
 * roasters
@@ -27,7 +25,7 @@ The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-pr
 
 ## Tuần 2: Web Application Development - JavaScript, Vuejs, HTTP/Ajax, Firebase
 
-## Tuần 3: Lên ý tưởng đồ án & Mockups 
+## Tuần 3: Lên ý tưởng đồ án & Mockups
 
 ## Tuần 4: Thực hiện đồ án & Demo - lần 1
 
@@ -35,8 +33,8 @@ The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-pr
 
 ## Tuần 6: Thực hiện đồ án & Demo - lần 3
 
-## Tuần 7: Hoàn thiện đồ án 
+## Tuần 7: Hoàn thiện đồ án
 
-## Tuần 8: Final Demo & Thi Tốt nghiệp 
+## Tuần 8: Final Demo & Thi Tốt nghiệp
 
 ##
