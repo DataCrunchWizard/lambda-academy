@@ -9,7 +9,6 @@ tags:
   - python
   - devops
   - front-end
-  - back-end
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
