@@ -16,12 +16,7 @@ tags:
 
 Bạn sẽ bắt đầu với những điều cơ bản nh
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+* 
 
 ## Tuần 2: Web Application Development - JavaScript, Vuejs, HTTP/Ajax, Firebase
 
