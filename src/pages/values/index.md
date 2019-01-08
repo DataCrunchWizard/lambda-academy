@@ -2,47 +2,36 @@
 templateKey: product-page
 title: 'Điểm Khác Biệt '
 image: /img/uidesigndeveloper.jpg
-heading: What we offer
+heading: 'Chúng tôi đầu tư vào bạn '
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Toàn bộ chưong trình học của LambdaDemy là hoàn toàn miễn phí và
+  chúng tôi cam kết nếu bạn hoàn thành khóa học thì bạn sẽ đuợc
+  nhận viện (toàn thời gian hoặc bán thời gian) tại các công ty công
+  nghệ đối tác của chúng tôi 
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-
+    - image: /img/mobile-development-life-cycle.gif
+      text: >-
+        Bạn sẽ học cách thực hiện 1 chu trình hoàn chỉnh từ ý tưởng
+        cho tới sản phẩm chạy production thực tế. 
+    - image: /img/oajqv.jpg
+      text: >-
+        Học và được hỗ trợ trực tuyến & trực tiếp từ những anh chị
+        kỹ sư phần mềm đi trước. 
+    - image: /img/slack-for-software-codeblock.png
+      text: >-
+        Khi bạn gặp khó khăn, có thể liên hệ huấn luyện viên để hỗ
+        trợ ngay online thông qua công cụ chat hiệu quả. 
+    - image: /img/online_tut-1515126946.jpg
+      text: >-
+        Khóa học diễn ra gần như là online, bạn không cần phải đến lớp
+        mỗi ngày trừ 1 buổi cố định mỗi tuần. 
+  heading: 'Chúng tôi tập trung vào Công nghệ Phần Mềm (Software Engineering) '
+  description: >-
+    Chúng tôi không chỉ dạy các bạn biết code, chúng tôi dạy bạn thực
+    hiện những dự án và công việc cụ thể và tự chính bạn có thể
+    xây dựng sản phẩm của mình. Chúng tôi cung cấp cho bạn những công
+    cụ hiện đại và cách tiếp cận vấn đề mới mẻ, tạo ra những nền
+    tảng quan trọng trong sự nghiệp của bạn.
 ---
 
