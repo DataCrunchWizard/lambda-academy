@@ -6,6 +6,8 @@ description: Nắm vững kiến thức DevOps trong tầm tay.
 tags:
   - devops
 ---
+![](/img/screenshot_5.png)
+
 Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể trở thành một DevOps Engineer. 
 
 **Thời gian dự tính (5 Tuần), với các nội dung học như sau:**
