@@ -38,13 +38,13 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
     * HTTPS
     * FTP
     * SSL/TLS
-  * Tìm hiểu và cài đặt:
-    * Web server
-    * Reverse Proxy
-    * Caching Server
-    * Forward Proxy
-    * Load Balancer
-    * Firewall
+* Tìm hiểu và cài đặt:
+  * Web server
+  * Reverse Proxy
+  * Caching Server
+  * Forward Proxy
+  * Load Balancer
+  * Firewall
 * **Tuần 3 :**
   * Tìm hiểu về cơ sở hạ tầng:
     * Container:
