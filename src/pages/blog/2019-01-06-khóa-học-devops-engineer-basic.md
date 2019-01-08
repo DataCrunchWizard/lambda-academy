@@ -46,7 +46,7 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
   * _Load Balancer_
   * _Firewall_
 
-**Tuần 3 : **Tìm hiểu về cơ sở hạ tầng:
+**Tuần 3:  **Tìm hiểu về cơ sở hạ tầng:
 
 * Container:
   * Docker
@@ -64,7 +64,7 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
 
 **Tuần 4 :**
 
-* Tìm hiểu về một vài CI/CD tool
+* Tìm hiểu về  CI/CD 
   * Gitlab CI + Gitlab Pages 
   * _Jenkins_
   * _Travis CJ_
