@@ -43,7 +43,7 @@ export const BlogPostTemplate = ({
             ) : null}
 
             <FacebookProvider appId="2262871737264696">
-                    <Comments  />
+                    <Comments href="" />
                   </FacebookProvider>
           </div>
         </div>
