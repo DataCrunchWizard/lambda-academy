@@ -10,7 +10,7 @@ description: >-
   nghệ đối tác của chúng tôi 
 intro:
   blurbs:
-    - image: /img/release_pipeline.png
+    - image: /img/mobile-development-life-cycle.gif
       text: >-
         Bạn sẽ học cách thực hiện 1 chu trình hoàn chỉnh từ ý tưởng
         cho tới sản phẩm chạy production thực tế. 
@@ -18,20 +18,14 @@ intro:
       text: >-
         Học và được hỗ trợ trực tuyến & trực tiếp từ những anh chị
         kỹ sư phần mềm đi trước. 
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/slack-for-software-codeblock.png
+      text: >-
+        Khi bạn gặp khó khăn, có thể liên hệ huấn luyện viên để hỗ
+        trợ ngay online thông qua công cụ chat hiệu quả. 
+    - image: /img/online_tut-1515126946.jpg
+      text: >-
+        Khóa học diễn ra gần như là online, bạn không cần phải đến lớp
+        mỗi ngày trừ 1 buổi cố định mỗi tuần. 
   heading: 'Chúng tôi tập trung vào Công nghệ Phần Mềm (Software Engineering) '
   description: >-
     Chúng tôi không chỉ dạy các bạn biết code, chúng tôi dạy bạn thực
