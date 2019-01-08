@@ -19,23 +19,23 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
 **Tuần 1 :**
 
 * Tìm hiểu về "Managing servers"
-  * Chọn một hệ điều hành để quản lý (Linux), cài đặt hệ điều hành đó lên máy ảo. 
+  * Chọn một hệ điều hành để quản lý (Linux), cài đặt hệ điều hành đó lên máy ảo, SSH Login vào hệ điều hành đó. 
   * Học cách sử dụng terminal của hệ điều hành đó:
     * Bash scripting cơ bản 
     * Nano,_ Vim_
     * _Compiling apps từ source code_
 * Tìm hiểu về các khái niệm về hệ điều hành hiện tại, sự khác nhau giữa chúng
   * Process management
+  * Memory/Storage
   * _Threads and concurrency_
   * _Sockets_
   * _I/O Management_
   * _Virtualization_
-  * Memory/Storage
   * _File Systems_
 
 **Tuần 2 :**
 
-* Tìm hiểu các khái ni về liên quan tới "Networking and Security"
+* Tìm hiểu các khái niệm liên quan tới "Networking and Security"
   * OIS model
   * DNS
   * HTTP/HTTPS
