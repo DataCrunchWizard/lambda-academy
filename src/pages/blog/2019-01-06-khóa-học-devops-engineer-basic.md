@@ -8,93 +8,97 @@ tags:
 ---
 ![](/img/screenshot_5.png)
 
-Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể trở thành một DevOps Engineer. 
+Cung cấp các kiến thức cơ bản  để có thể trở thành một DevOps Engineer. 
 
-**Thời gian dự tính (5 Tuần), với các nội dung học như sau:**
+**Thời gian dự tính (5 Tuần), với các nội dung học như bên dưới:**
+
+_Lưu ý: những mục in nghiêng là dành để tham khảo thêm hoặc sẽ được dạy ở khoá Advanced_
+
+_Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ bản và biết một trong các ngôn ngữ lập trình sau: python, C++, Java, Javascript, C#. _
 
 **Tuần 1 :**
 
-* Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình 
-  * Javascript
+* Tìm hiểu về "Managing servers"
+  * Chọn một hệ điều hành để quản lý (Linux), cài đặt hệ điều hành đó lên máy ảo. 
+  * Học cách sử dụng terminal của hệ điều hành đó:
+    * Bash scripting cơ bản 
+    * Nano,_ Vim_
+    * _Compiling apps từ source code_
 * Tìm hiểu về các khái niệm về hệ điều hành hiện tại, sự khác nhau giữa chúng
   * Process management
-  * Threads and concurrency
-  * Sockets
-  * I/O Management
-  * Virtualization
+  * _Threads and concurrency_
+  * _Sockets_
+  * _I/O Management_
+  * _Virtualization_
   * Memory/Storage
-  * File Systems
-* Tìm hiểu về "Managing servers"
-  * Chọn một hệ điều hành để quán lý ( linux, window..)
-  * Học cách sử dụng teminal của hệ điều hành đó:
-    * Learn bash scripting
-    * Vim, nano, power shell, emacs
-    * Compiling apps from source
+  * _File Systems_
 
 **Tuần 2 :**
 
-* Tìm hiểu về "Networking and Security"
+* Tìm hiểu các khái ni về liên quan tới "Networking and Security"
   * OIS model
   * DNS
-  * HTTP
-  * HTTPS
-  * FTP
+  * HTTP/HTTPS
+  * _FTP_
   * SSL/TLS
-
-
 * Tìm hiểu và cài đặt:
   * Web server
   * Reverse Proxy
-  * Caching Server
-  * Forward Proxy
-  * Load Balancer
-  * Firewall
+  * _Caching Server_
+  * _Forward Proxy_
+  * _Load Balancer_
+  * _Firewall_
 
 **Tuần 3 :**
 
 * Tìm hiểu về cơ sở hạ tầng:
   * Container:
     * Docker
-    * rkt
-    * LXC
-  * Configuration Management
-    * Ansible
-    * Salt
-    * Chef
-    * Puppet
-    * Infrastructure Provisioning
-      * Terraform
-      * Cloud Formation
+    * _rkt_
+    * _LXC_
+
+  * _Configuration Management_
+    * _Ansible_
+    * _Salt_
+    * _Chef_
+    * _Puppet_
+  * _Infrastructure Provisioning_
+    * _Terraform_
+    * _Cloud Formation_
 
 **Tuần 4 :**
 
 * Tìm hiểu về một vài CI/CD tool
-  * Jenkins
-  * Travis CJ
-  * Teamcity
-  * Drone
-  * Circle CI
+  * Gitlab CI + Gitlab Pages 
+  * _Jenkins_
+  * _Travis CJ_
+  * _Teamcity_
+  * _Drone_
+  * _Circle CI_
 
 **Tuần 5 :**
 
-* Tìm hiểu cách " Monitor software and infrastructure"
-  * Infrastructure Monitoring
-    * Nagios
-    * Icinga
-    * Datadog
-    * Zabbix
-    * Monit
-  * Application monitoring
-    * AppDynamics
-    * New Relic
-  * Log management
-    * ELK Stack
-    * Graylog
-    * Splunk
-    * Papertrail
+* Infrastructure Monitoring
+  * NetData
+  * _Nagios_
+  * _Icinga_
+  * _Datadog_
+  * _Zabbix_
+  * _Monit_
+* Application monitoring
+  * New Relic
+  * Healthcheck.io 
+  * _AppDynamics_
+* Log management
+  * Papertrail
+  * _ELK Stack_
+  * _Graylog_
+  * _Splunk_
+  __
 * Tìm hiểu về các "Cloud Providers"
-  * AWS
-  * Google cloud
-  * Azure
-  * Digital Ocean
   * Heroku
+  * AWS
+  * _Google Cloud_
+  * _Dokku_
+  * _Azure_
+  * _Digital Ocean_
