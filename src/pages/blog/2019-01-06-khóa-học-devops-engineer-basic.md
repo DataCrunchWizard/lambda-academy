@@ -30,14 +30,18 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
     * Learn bash scripting
     * Vim, nano, power shell, emacs
     * Compiling apps from source
-* **Tuần 2 :**
-  * Tìm hiểu về "Networking and Security"
-    * OIS model
-    * DNS
-    * HTTP
-    * HTTPS
-    * FTP
-    * SSL/TLS
+
+**Tuần 2 :**
+
+* Tìm hiểu về "Networking and Security"
+  * OIS model
+  * DNS
+  * HTTP
+  * HTTPS
+  * FTP
+  * SSL/TLS
+
+
 * Tìm hiểu và cài đặt:
   * Web server
   * Reverse Proxy
@@ -45,46 +49,52 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
   * Forward Proxy
   * Load Balancer
   * Firewall
-* **Tuần 3 :**
-  * Tìm hiểu về cơ sở hạ tầng:
-    * Container:
-      * Docker
-      * rkt
-      * LXC
-    * Configuration Management
-      * Ansible
-      * Salt
-      * Chef
-      * Puppet
-    * Infrastructure Provisioning
-      * Terraform
-      * Cloud Formation
-* **Tuần 4 :**
-  * Tìm hiểu về một vài CI/CD tool
-    * Jenkins
-    * Travis CJ
-    * Teamcity
-    * Drone
-    * Circle CI
-* **Tuần 5 :**
-  * Tìm hiểu cách " Monitor software and infrastructure"
-    * Infrastructure Monitoring
-      * Nagios
-      * Icinga
-      * Datadog
-      * Zabbix
-      * Monit
-    * Application monitoring
-      * AppDynamics
-      * New Relic
-    * Log management
-      * ELK Stack
-      * Graylog
-      * Splunk
-      * Papertrail
-  * Tìm hiểu về các "Cloud Providers"
-    * AWS
-    * Google cloud
-    * Azure
-    * Digital Ocean
-    * Heroku
+
+**Tuần 3 :**
+
+* Tìm hiểu về cơ sở hạ tầng:
+  * Container:
+    * Docker
+    * rkt
+    * LXC
+  * Configuration Management
+    * Ansible
+    * Salt
+    * Chef
+    * Puppet
+  * Infrastructure Provisioning
+    * Terraform
+    * Cloud Formation
+
+**Tuần 4 :**
+
+* Tìm hiểu về một vài CI/CD tool
+  * Jenkins
+  * Travis CJ
+  * Teamcity
+  * Drone
+  * Circle CI
+
+**Tuần 5 :**
+
+* Tìm hiểu cách " Monitor software and infrastructure"
+  * Infrastructure Monitoring
+    * Nagios
+    * Icinga
+    * Datadog
+    * Zabbix
+    * Monit
+  * Application monitoring
+    * AppDynamics
+    * New Relic
+  * Log management
+    * ELK Stack
+    * Graylog
+    * Splunk
+    * Papertrail
+* Tìm hiểu về các "Cloud Providers"
+  * AWS
+  * Google cloud
+  * Azure
+  * Digital Ocean
+  * Heroku
