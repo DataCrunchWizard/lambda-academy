@@ -48,7 +48,9 @@ __
   * _Load Balancer_
   * _Firewall_
 
-**Tuần 3:  **Tìm hiểu về cơ sở hạ tầng:
+**Tuần 3:  **
+
+Tìm hiểu về cơ sở hạ tầng:
 
 * Container:
   * Docker
