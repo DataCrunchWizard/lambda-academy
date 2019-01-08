@@ -48,7 +48,9 @@ __
   * _Load Balancer_
   * _Firewall_
 
-**Tuần 3:  **
+****
+
+**Tuần 3:**
 
 Tìm hiểu về cơ sở hạ tầng:
 
@@ -56,7 +58,6 @@ Tìm hiểu về cơ sở hạ tầng:
   * Docker
   * _rkt_
   * _LXC_
-
 * _Configuration Management_
   * _Ansible_
   * _Salt_
@@ -94,7 +95,7 @@ Tìm hiểu về cơ sở hạ tầng:
   * _ELK Stack_
   * _Graylog_
   * _Splunk_
-  __
+    __
 * Tìm hiểu về các "Cloud Providers"/PaaS
   * AWS
   * Dokko
