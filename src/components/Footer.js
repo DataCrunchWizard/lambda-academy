@@ -12,7 +12,7 @@ const Navbar = class extends React.Component {
    return (
   
     <div className="container"  style={{color:'teal'}}>
-      <div className="columns">
+      <div className="navbar">
       <div className="column is-10 is-offset-1">
 
     <hr/>
