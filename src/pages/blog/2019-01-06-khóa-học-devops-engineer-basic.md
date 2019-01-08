@@ -15,6 +15,7 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
 **Tuần 1 :**
 
 * Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình 
+
   * Javascript
 * Tìm hiểu về các khái niệm về hệ điều hành hiện tại, sự khác nhau giữa chúng
   * Process management
