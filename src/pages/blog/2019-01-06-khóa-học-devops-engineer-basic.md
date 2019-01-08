@@ -49,22 +49,21 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
   * _Load Balancer_
   * _Firewall_
 
-**Tuần 3 :**
+**Tuần 3 : **Tìm hiểu về cơ sở hạ tầng:
 
-* Tìm hiểu về cơ sở hạ tầng:
-  * Container:
-    * Docker
-    * _rkt_
-    * _LXC_
+* Container:
+  * Docker
+  * _rkt_
+  * _LXC_
 
-  * _Configuration Management_
-    * _Ansible_
-    * _Salt_
-    * _Chef_
-    * _Puppet_
-  * _Infrastructure Provisioning_
-    * _Terraform_
-    * _Cloud Formation_
+* _Configuration Management_
+  * _Ansible_
+  * _Salt_
+  * _Chef_
+  * _Puppet_
+* _Infrastructure Provisioning_
+  * _Terraform_
+  * _Cloud Formation_
 
 **Tuần 4 :**
 
