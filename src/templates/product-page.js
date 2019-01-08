@@ -16,7 +16,7 @@ export const ProductPageTemplate = ({
   main,
   testimonials,
   fullImage,
-  pricing,
+ 
 }) => (
   <section className="section section--gradient">
     <div className="container">
@@ -95,11 +95,7 @@ export const ProductPageTemplate = ({
                   })`,
                 }}
               />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
+              
             </div>
           </div>
         </div>
