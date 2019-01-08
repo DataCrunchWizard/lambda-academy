@@ -69,7 +69,7 @@ Tìm hiểu về cơ sở hạ tầng:
 **Tuần 4 :**
 
 * Tìm hiểu về  CI/CD 
-  * Gitlab CI + Gitlab Pages 
+  * Gitlab CI => Gitlab Pages + Heroku 
   * _Jenkins_
   * _Travis CJ_
   * _Teamcity_
@@ -95,9 +95,9 @@ Tìm hiểu về cơ sở hạ tầng:
   * _Graylog_
   * _Splunk_
   __
-* Tìm hiểu về các "Cloud Providers"
-  * Heroku
+* Tìm hiểu về các "Cloud Providers"/PaaS
   * AWS
+  * Dokko
   * _Google Cloud_
   * _Dokku_
   * _Azure_
