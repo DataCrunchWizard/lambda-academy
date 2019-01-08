@@ -19,11 +19,8 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
 **Tuần 1 :**
 
 * Tìm hiểu về "Managing servers"
-  * Chọn một hệ điều hành để quản lý (Linux), cài đặt hệ điều hành đó lên máy ảo. Tạo server trên AWS và ssh Login vào hệ điều hành đó. 
-  * Học cách sử dụng terminal của hệ điều hành đó:
-    * Bash scripting cơ bản 
-    * Nano,_ Vim_
-    * _Compiling apps từ source code_
+  * Chọn một hệ điều hành để quản lý (Linux - Ubuntu/Debian ), cài đặt hệ điều hành đó lên máy ảo. Tạo server trên AWS và ssh Login vào hệ điều hành đó. 
+  * Học cách sử dụng terminal của hệ điều hành đó: Bash scripting cơ bản, Nano,_ Vim, Compiling apps từ source code_
 * Tìm hiểu về các khái niệm về hệ điều hành hiện tại, sự khác nhau giữa chúng
   * Process management
   * Memory/Storage
