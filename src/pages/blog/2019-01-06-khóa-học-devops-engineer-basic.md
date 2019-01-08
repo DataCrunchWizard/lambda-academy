@@ -63,27 +63,25 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
     * Teamcity
     * Drone
     * Circle CI
-
-**Tuần 5 :**
-
-* Tìm hiểu cách " Monitor software and infrastructure"
-  * Infrastructure Monitoring
-    * Nagios
-    * Icinga
-    * Datadog
-    * Zabbix
-    * Monit
-  * Application monitoring
-    * AppDynamics
-    * New Relic
-  * Log management
-    * ELK Stack
-    * Graylog
-    * Splunk
-    * Papertrail
-* Tìm hiểu về các "Cloud Providers"
-  * AWS
-  * Google cloud
-  * Azure
-  * Digital Ocean
-  * Heroku
+* **Tuần 5 :**
+  * Tìm hiểu cách " Monitor software and infrastructure"
+    * Infrastructure Monitoring
+      * Nagios
+      * Icinga
+      * Datadog
+      * Zabbix
+      * Monit
+    * Application monitoring
+      * AppDynamics
+      * New Relic
+    * Log management
+      * ELK Stack
+      * Graylog
+      * Splunk
+      * Papertrail
+  * Tìm hiểu về các "Cloud Providers"
+    * AWS
+    * Google cloud
+    * Azure
+    * Digital Ocean
+    * Heroku
