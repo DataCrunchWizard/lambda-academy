@@ -39,14 +39,48 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 
 ## Tuần 3: Lên ý tưởng đồ án & Mockups
 
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
+
 ## Tuần 4: Thực hiện đồ án & Demo - lần 1
+
+
+
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
 
 ## Tuần 5: Thực hiện đồ án & Demo - lần 2
 
+
+
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
+
 ## Tuần 6: Thực hiện đồ án & Demo - lần 3
+
+
+
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
 
 ## Tuần 7: Hoàn thiện đồ án
 
+
+
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
+
 ## Tuần 8: Final Demo & Thi Tốt nghiệp
+
+
+
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
 
 ##
