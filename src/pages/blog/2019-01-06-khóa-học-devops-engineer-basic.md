@@ -16,6 +16,8 @@ _Lưu ý: những mục in nghiêng là dành để tham khảo thêm hoă�
 
 _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ bản và biết một trong các ngôn ngữ lập trình sau: python, C++, Java, Javascript, C#. _
 
+__
+
 **Tuần 1 :**
 
 * Tìm hiểu về "Managing servers"
