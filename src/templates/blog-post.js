@@ -5,6 +5,8 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import { FacebookProvider, Comments } from 'react-facebook';
+
 
 export const BlogPostTemplate = ({
   content,
@@ -39,6 +41,10 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+
+            <FacebookProvider appId="2262871737264696">
+                    <Comments  />
+                  </FacebookProvider>
           </div>
         </div>
       </div>
