@@ -12,23 +12,24 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
 
 **Thời gian dự tính (5 Tuần), với các nội dung học như sau:**
 
-* **Tuần 1 :**
-  * Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình 
-    * Javascript
-  * Tìm hiểu về các khái niệm về hệ điều hành hiện tại, sự khác nhau giữa chúng
-    * Process management
-    * Threads and concurrency
-    * Sockets
-    * I/O Management
-    * Virtualization
-    * Memory/Storage
-    * File Systems
-  * Tìm hiểu về "Managing servers"
-    * Chọn một hệ điều hành để quán lý ( linux, window..)
-    * Học cách sử dụng teminal của hệ điều hành đó:
-      * Learn bash scripting
-      * Vim, nano, power shell, emacs
-      * Compiling apps from source
+**Tuần 1 :**
+
+* Tìm hiểu kiến thức cơ bản về ngôn ngữ lập trình 
+  * Javascript
+* Tìm hiểu về các khái niệm về hệ điều hành hiện tại, sự khác nhau giữa chúng
+  * Process management
+  * Threads and concurrency
+  * Sockets
+  * I/O Management
+  * Virtualization
+  * Memory/Storage
+  * File Systems
+* Tìm hiểu về "Managing servers"
+  * Chọn một hệ điều hành để quán lý ( linux, window..)
+  * Học cách sử dụng teminal của hệ điều hành đó:
+    * Learn bash scripting
+    * Vim, nano, power shell, emacs
+    * Compiling apps from source
 * **Tuần 2 :**
   * Tìm hiểu về "Networking and Security"
     * OIS model
