@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: 'Điểm Khác Biệt '
-image: /img/26sd4y4g1q601.jpg
+image: /img/uidesigndeveloper.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
