@@ -62,9 +62,9 @@ Cung cấp các kiến thức từ cơ bản đến nâng cao để có thể tr
     * Salt
     * Chef
     * Puppet
-  * Infrastructure Provisioning
-    * Terraform
-    * Cloud Formation
+    * Infrastructure Provisioning
+      * Terraform
+      * Cloud Formation
 
 **Tuần 4 :**
 
