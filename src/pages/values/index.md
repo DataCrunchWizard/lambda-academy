@@ -22,7 +22,7 @@ intro:
       text: >-
         Khóa học diễn ra gần như là online, bạn không cần phải đến lớp
         mỗi ngày trừ 1 buổi cố định mỗi tuần. 
-    - image: /img/mobile-development-life-cycle.gif
+    - image: /img/mobile-development-life-cycle.png
       text: >-
         Bạn sẽ học cách thực hiện 1 chu trình hoàn chỉnh từ ý tưởng
         cho tới sản phẩm chạy production thực tế. 
