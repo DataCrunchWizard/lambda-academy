@@ -45,9 +45,9 @@ Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạn
 
 ## Tuần 4: HTTP/Ajax & Firebase
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Tìm hiểu về giao thức tương tác với Server và thử nhiệm với Firebase 
 
-* Thành lập nhóm & ý tưởng dự án 
+Thành lập nhóm & ý tưởng dự án 
 
 ## Tuần 5: Lên ý tưởng đồ án và xây dựng Mockups
 
