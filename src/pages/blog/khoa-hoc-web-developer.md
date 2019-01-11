@@ -79,4 +79,6 @@ Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiệ
 * DEMO trình bày
 * Chuẩn bị hồ sơ CV cho công việc đầu tiên 
 
-##
+## Còn chờ gì nữa, bấm vào link bên dưới để ứng tuyển ngay!
+
+<https://goo.gl/forms/3IaGXbMGnA0DePQ22>
