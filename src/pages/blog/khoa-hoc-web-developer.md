@@ -53,11 +53,14 @@ Tìm hiểu về giao thức tương tác với Server và thử nhiệ
 
 ## Tuần 5: Lên ý tưởng đồ án và xây dựng Mockups
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Lúc này bạn sẽ bắt đầu ứng dụng những điều đã học vào xây dựng dự án thực tế đầu tay. Nội dung bao gồm:
 
-* Thành lập nhóm & ý tưởng dự án 
+* Lên ý tưởng trên 1 trang giấy
+* Xây dựng kế hoạch và ứng dụng công cụ quản lý dự án Trello 
+* Sử dụng công cụ Mopups để phát thảo ý tưởng. 
+* Bắt tay vào code HTML/CSS cho trang đầu tiên. 
 
-## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router 
+## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
