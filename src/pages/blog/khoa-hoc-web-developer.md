@@ -69,9 +69,7 @@ Lúc này bạn sẽ bắt đầu ứng dụng những điều đã họ
 
 ## Tuần 7: Hoàn thiện đồ án
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
-
-* Thành lập nhóm & ý tưởng dự án 
+Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiện những chi tiết cuối cùng cho dự án dưới sự hỗ trợ của Huấn Luyện Viên. 
 
 ## Tuần 8: Final Demo & Thi Tốt nghiệp
 
