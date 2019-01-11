@@ -62,9 +62,10 @@ Lúc này bạn sẽ bắt đầu ứng dụng những điều đã họ
 
 ## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Đây là lúc bạn bắt đầu thực hiện dự án của mình và học thêm 1 số kỹ thuật, công  cụ mới:
 
-* Thành lập nhóm & ý tưởng dự án 
+* Vuejs Router
+* Google analytics , SEO 
 
 ## Tuần 7: Hoàn thiện đồ án
 
