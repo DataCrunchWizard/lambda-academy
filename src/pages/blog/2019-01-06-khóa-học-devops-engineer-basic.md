@@ -16,6 +16,8 @@ _Lưu ý: những mục in nghiêng là dành để tham khảo thêm hoă�
 
 _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ bản và biết một trong các ngôn ngữ lập trình sau: python, C++, Java, Javascript, C#. _
 
+__
+
 **Tuần 1 :**
 
 * Tìm hiểu về "Managing servers"
@@ -46,13 +48,16 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
   * _Load Balancer_
   * _Firewall_
 
-**Tuần 3 : **Tìm hiểu về cơ sở hạ tầng:
+****
+
+**Tuần 3:**
+
+Tìm hiểu về cơ sở hạ tầng:
 
 * Container:
   * Docker
   * _rkt_
   * _LXC_
-
 * _Configuration Management_
   * _Ansible_
   * _Salt_
@@ -64,8 +69,8 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
 
 **Tuần 4 :**
 
-* Tìm hiểu về một vài CI/CD tool
-  * Gitlab CI + Gitlab Pages 
+* Tìm hiểu về  CI/CD 
+  * Gitlab CI => Gitlab Pages + Heroku 
   * _Jenkins_
   * _Travis CJ_
   * _Teamcity_
@@ -90,10 +95,10 @@ _Yêu cầu cơ bản: đã tham gia khóa học về lập trình cơ ba�
   * _ELK Stack_
   * _Graylog_
   * _Splunk_
-  __
-* Tìm hiểu về các "Cloud Providers"
-  * Heroku
+    __
+* Tìm hiểu về các "Cloud Providers"/PaaS
   * AWS
+  * Dokko
   * _Google Cloud_
   * _Dokku_
   * _Azure_

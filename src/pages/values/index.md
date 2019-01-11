@@ -10,10 +10,6 @@ description: >-
   nghệ đối tác của chúng tôi 
 intro:
   blurbs:
-    - image: /img/mobile-development-life-cycle.gif
-      text: >-
-        Bạn sẽ học cách thực hiện 1 chu trình hoàn chỉnh từ ý tưởng
-        cho tới sản phẩm chạy production thực tế. 
     - image: /img/oajqv.jpg
       text: >-
         Học và được hỗ trợ trực tuyến & trực tiếp từ những anh chị
@@ -26,6 +22,10 @@ intro:
       text: >-
         Khóa học diễn ra gần như là online, bạn không cần phải đến lớp
         mỗi ngày trừ 1 buổi cố định mỗi tuần. 
+    - image: /img/mobile-development-life-cycle.png
+      text: >-
+        Bạn sẽ học cách thực hiện 1 chu trình hoàn chỉnh từ ý tưởng
+        cho tới sản phẩm chạy production thực tế. 
   heading: 'Chúng tôi tập trung vào Công nghệ Phần Mềm (Software Engineering) '
   description: >-
     Chúng tôi không chỉ dạy các bạn biết code, chúng tôi dạy bạn thực
