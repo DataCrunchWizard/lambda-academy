@@ -37,7 +37,7 @@ Bạn sẽ tiếp cận Javascript, một ngôn ngữ lập trình độc
 
 ## Tuần 3: Vuejs
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạnh để thực hiện những dự án lớn. 
 
 * Thành lập nhóm & ý tưởng dự án 
 
