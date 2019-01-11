@@ -73,8 +73,10 @@ Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiệ
 
 ## Tuần 8: Final Demo & Thi Tốt nghiệp
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Đây là lúc nhóm của bạn trình bày cho mọi người thành quả của mình, những việc cần thực hiện bao gồm:
 
-* Thành lập nhóm & ý tưởng dự án 
+* Báo cáo tổng kết dự án 
+* DEMO trình bày
+* Chuẩn bị hồ sơ CV cho công việc đầu tiên 
 
 ##
