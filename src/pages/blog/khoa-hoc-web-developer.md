@@ -47,7 +47,9 @@ Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạn
 
 Tìm hiểu về giao thức tương tác với Server và thử nhiệm với Firebase 
 
-Thành lập nhóm & ý tưởng dự án 
+* Tìm hiểu về Ajax và axios 
+* Đọc và nghiên cứu code Login/Logout/Registration
+* Sử dụng Firebase để hoàn thiện trang danh mục và trang chi tiết 
 
 ## Tuần 5: Lên ý tưởng đồ án và xây dựng Mockups
 
@@ -55,7 +57,7 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 
 * Thành lập nhóm & ý tưởng dự án 
 
-## Tuần 6: Thực hiện MVP của đồ án & Vuejs Nâng cao 
+## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router 
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
