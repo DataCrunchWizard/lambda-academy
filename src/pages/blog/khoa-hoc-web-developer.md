@@ -39,7 +39,9 @@ Bạn sẽ tiếp cận Javascript, một ngôn ngữ lập trình độc
 
 Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạnh để thực hiện những dự án lớn. 
 
-* Thành lập nhóm & ý tưởng dự án 
+* Giới thiệu về Vuejs, Đối tượng, Cú pháp
+* Binding, Render theo điều kiện và danh sách 
+* Xử lý sự kiện 
 
 ## Tuần 4: HTTP/Ajax & Firebase
 
