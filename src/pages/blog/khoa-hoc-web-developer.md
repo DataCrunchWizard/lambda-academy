@@ -25,9 +25,7 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 * Học cách sử dụng CSS để thay đổi giao diện Landing Page
 * Xuất bản sử dụng gitlab pages 
 
-## Tuần 2: Web Application Development - JavaScript, Vuejs, HTTP/Ajax, Firebase
-
-
+## Tuần 2: Web Application Development c JavaScript 
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
@@ -37,31 +35,25 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 * Học cách sử dụng CSS để thay đổi giao diện Landing Page
 * Xuất bản sử dụng gitlab pages 
 
-## Tuần 3: Lên ý tưởng đồ án & Mockups
+## Tuần 3: Vuejs
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
 * Thành lập nhóm & ý tưởng dự án 
 
-## Tuần 4: Thực hiện đồ án & Demo - lần 1
-
-
+## Tuần 4: HTTP/Ajax, Firebase
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
 * Thành lập nhóm & ý tưởng dự án 
 
-## Tuần 5: Thực hiện đồ án & Demo - lần 2
-
-
+## Tuần 5: Lên ý tưởng đồ án và Mockups 
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
 * Thành lập nhóm & ý tưởng dự án 
 
-## Tuần 6: Thực hiện đồ án & Demo - lần 3
-
-
+## Tuần 6: Thực hiện MVP của đồ án 
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
@@ -69,15 +61,11 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 
 ## Tuần 7: Hoàn thiện đồ án
 
-
-
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
 * Thành lập nhóm & ý tưởng dự án 
 
 ## Tuần 8: Final Demo & Thi Tốt nghiệp
-
-
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
