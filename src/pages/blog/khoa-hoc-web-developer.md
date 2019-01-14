@@ -27,10 +27,17 @@ tags:
 
 \- Chú trọng rèn luyện tư duy và phong cách lập trình
 
+\==
+
+\- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình PHP, muốn phát triển ứng dụng web PHP đáp ứng nhu cầu thực tế một cách nhanh chóng. - Yêu thích lập trình, không giới hạn độ tuổi
+
+\- Khóa học đào tạo từ căn bản nên không yêu cầu học viên có kiến thức về lập trình.
 
 
 
+\- Điều kiện cần khi tham gia khóa học: Học viên có kiến thức tin học văn phòng và sử dụng internet
 
+\===
 
 
 ## Tuần 1: Web Foundations - HTML, CSS, Git
@@ -71,26 +78,32 @@ Tìm hiểu về giao thức tương tác với Server và thử nhiệ
 
 ## Tuần 5: Lên ý tưởng đồ án và xây dựng Mockups
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Lúc này bạn sẽ bắt đầu ứng dụng những điều đã học vào xây dựng dự án thực tế đầu tay. Nội dung bao gồm:
 
-* Thành lập nhóm & ý tưởng dự án 
+* Lên ý tưởng trên 1 trang giấy
+* Xây dựng kế hoạch và ứng dụng công cụ quản lý dự án Trello 
+* Sử dụng công cụ Mopups để phát thảo ý tưởng. 
+* Bắt tay vào code HTML/CSS cho trang đầu tiên. 
 
-## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router 
+## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Đây là lúc bạn bắt đầu thực hiện dự án của mình và học thêm 1 số kỹ thuật, công  cụ mới:
 
-* Thành lập nhóm & ý tưởng dự án 
+* Vuejs Router
+* Google analytics , SEO 
 
 ## Tuần 7: Hoàn thiện đồ án
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
-
-* Thành lập nhóm & ý tưởng dự án 
+Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiện những chi tiết cuối cùng cho dự án dưới sự hỗ trợ của Huấn Luyện Viên. 
 
 ## Tuần 8: Final Demo & Thi Tốt nghiệp
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Đây là lúc nhóm của bạn trình bày cho mọi người thành quả của mình, những việc cần thực hiện bao gồm:
 
-* Thành lập nhóm & ý tưởng dự án 
+* Báo cáo tổng kết dự án 
+* DEMO trình bày
+* Chuẩn bị hồ sơ CV cho công việc đầu tiên 
 
-##
+## Còn chờ gì nữa, bấm vào link bên dưới để ứng tuyển ngay!
+
+<https://goo.gl/forms/3IaGXbMGnA0DePQ22>
