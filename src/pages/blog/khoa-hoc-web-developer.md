@@ -11,7 +11,7 @@ tags:
   - javascript
   - python
   - devops
-  - front-end
+  - frontend
 ---
 ![flavor wheel](/img/0_hiclyadnsiyt0odu.jpg)
 
