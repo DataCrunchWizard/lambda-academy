@@ -29,7 +29,7 @@ tags:
 
 \- Yêu thích lập trình, không giới hạn độ tuổi. Ưu tiên học viên đã có kiến thức lập trình cơ bản. 
 
-# Nội dung khóa học 
+# Nội dung khóa học
 
 ## Tuần 1: Web Foundations - HTML, CSS, Git
 
@@ -95,6 +95,10 @@ Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiệ
 * DEMO trình bày
 * Chuẩn bị hồ sơ CV cho công việc đầu tiên 
 
-## Còn chờ gì nữa, bấm vào link bên dưới để ứng tuyển ngay!
+# Phương Pháp Đào Tạo 
+
+Kết hợp lý thuyết căn bản & trải nghiệm dự án, chú trọng thời gian thực hành chiếm đến 80% khoá học, bao gồm tất cả những kiến thức cần thiết để học viên có thể trở thành một lập trình viên web chuyên nghiệp sau 8 tuần 
+
+# Đơn đăng ký 
 
 <https://goo.gl/forms/3IaGXbMGnA0DePQ22>
