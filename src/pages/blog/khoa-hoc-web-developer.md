@@ -15,9 +15,7 @@ tags:
 ---
 ![flavor wheel](/img/0_hiclyadnsiyt0odu.jpg)
 
-
-
-## Mục tiêu khóa học: 
+# Mục tiêu khóa học:
 
 \- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình Web mã nguồn mở Javascript/ES6  theo phiên bản mới nhất
 
@@ -25,17 +23,13 @@ tags:
 
 \- Giúp học viên làm quen với môi trường làm việc tại các công ty phần mềm.
 
-
-
-## Điều kiện tham gia khóa học: 
+# Điều kiện tham gia khóa học:
 
 \- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình website và ứng dụng wep app  đáp ứng nhu cầu thực tế một cách nhanh chóng. 
 
-\- Yêu thích lập trình, không giới hạn độ tuổi. Ưu tiên h 
+\- Yêu thích lập trình, không giới hạn độ tuổi. Ưu tiên học viên đã có kiến thức lập trình cơ bản. 
 
-
-
-\===
+# Nội dung khóa học 
 
 ## Tuần 1: Web Foundations - HTML, CSS, Git
 
