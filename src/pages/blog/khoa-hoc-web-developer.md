@@ -17,28 +17,25 @@ tags:
 
 
 
-\- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình Web mã nguồn mở PHP theo phiên bản mới nhất
+## Mục tiêu khóa học: 
 
-\-  Trang bị cho học viên những kinh nghiệm để xây dựng website hoàn chỉnh cho doanh nghiệp với mục đích giới thiệu sản phẩm, thương mại điện tử, tin tức… với giao diện web thân thiện, hiện đại, có thể tương thích với mọi trình duyệt và hiển thị trên mọi thiết bị (responsive), dễ dàng được cập nhật thông qua hệ thống quản trị bảo mật.
+\- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình Web mã nguồn mở Javascript/ES6  theo phiên bản mới nhất
 
-\- Giúp HV hiểu rõ và phát triển ứng dụng web hoàn chỉnh trên Laravel Framework, một trong những Framework giúp phát triển ứng dụng web một cách nhanh chóng và linh động
+\-  Trang bị cho học viên những kinh nghiệm để xây dựng website và web application  hoàn chỉnh trên nền sử dụng những Framework hiện đại nhất, giúp phát triển ứng dụng web một cách nhanh chóng và linh động
 
 \- Giúp học viên làm quen với môi trường làm việc tại các công ty phần mềm.
 
-\- Chú trọng rèn luyện tư duy và phong cách lập trình
-
-\==
-
-\- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình PHP, muốn phát triển ứng dụng web PHP đáp ứng nhu cầu thực tế một cách nhanh chóng. - Yêu thích lập trình, không giới hạn độ tuổi
-
-\- Khóa học đào tạo từ căn bản nên không yêu cầu học viên có kiến thức về lập trình.
 
 
+## Điều kiện tham gia khóa học: 
 
-\- Điều kiện cần khi tham gia khóa học: Học viên có kiến thức tin học văn phòng và sử dụng internet
+\- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình website và ứng dụng wep app  đáp ứng nhu cầu thực tế một cách nhanh chóng. 
+
+\- Yêu thích lập trình, không giới hạn độ tuổi. Ưu tiên h 
+
+
 
 \===
-
 
 ## Tuần 1: Web Foundations - HTML, CSS, Git
 
