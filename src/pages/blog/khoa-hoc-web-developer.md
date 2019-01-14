@@ -105,6 +105,8 @@ Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiệ
 
 
 
-# Đơn đăng ký 
+# Đơn đăng ký & Bài đánh giá đầu vào. 
 
 <https://goo.gl/forms/3IaGXbMGnA0DePQ22>
+
+**Lưu ý**: vì đây là khóa học miễn phí, chúng tôi chỉ nhận từ 5-10 học viên mỗi khóa, thế nên sẽ ưu tiên cho những học viên đăng ký sớm.
