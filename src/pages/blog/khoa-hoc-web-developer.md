@@ -15,6 +15,24 @@ tags:
 ---
 ![flavor wheel](/img/0_hiclyadnsiyt0odu.jpg)
 
+
+
+\- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình Web mã nguồn mở PHP theo phiên bản mới nhất
+
+\-  Trang bị cho học viên những kinh nghiệm để xây dựng website hoàn chỉnh cho doanh nghiệp với mục đích giới thiệu sản phẩm, thương mại điện tử, tin tức… với giao diện web thân thiện, hiện đại, có thể tương thích với mọi trình duyệt và hiển thị trên mọi thiết bị (responsive), dễ dàng được cập nhật thông qua hệ thống quản trị bảo mật.
+
+\- Giúp HV hiểu rõ và phát triển ứng dụng web hoàn chỉnh trên Laravel Framework, một trong những Framework giúp phát triển ứng dụng web một cách nhanh chóng và linh động
+
+\- Giúp học viên làm quen với môi trường làm việc tại các công ty phần mềm.
+
+\- Chú trọng rèn luyện tư duy và phong cách lập trình
+
+
+
+
+
+
+
 ## Tuần 1: Web Foundations - HTML, CSS, Git
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
@@ -53,32 +71,26 @@ Tìm hiểu về giao thức tương tác với Server và thử nhiệ
 
 ## Tuần 5: Lên ý tưởng đồ án và xây dựng Mockups
 
-Lúc này bạn sẽ bắt đầu ứng dụng những điều đã học vào xây dựng dự án thực tế đầu tay. Nội dung bao gồm:
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
-* Lên ý tưởng trên 1 trang giấy
-* Xây dựng kế hoạch và ứng dụng công cụ quản lý dự án Trello 
-* Sử dụng công cụ Mopups để phát thảo ý tưởng. 
-* Bắt tay vào code HTML/CSS cho trang đầu tiên. 
+* Thành lập nhóm & ý tưởng dự án 
 
-## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router
+## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router 
 
-Đây là lúc bạn bắt đầu thực hiện dự án của mình và học thêm 1 số kỹ thuật, công  cụ mới:
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
-* Vuejs Router
-* Google analytics , SEO 
+* Thành lập nhóm & ý tưởng dự án 
 
 ## Tuần 7: Hoàn thiện đồ án
 
-Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiện những chi tiết cuối cùng cho dự án dưới sự hỗ trợ của Huấn Luyện Viên. 
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+
+* Thành lập nhóm & ý tưởng dự án 
 
 ## Tuần 8: Final Demo & Thi Tốt nghiệp
 
-Đây là lúc nhóm của bạn trình bày cho mọi người thành quả của mình, những việc cần thực hiện bao gồm:
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
-* Báo cáo tổng kết dự án 
-* DEMO trình bày
-* Chuẩn bị hồ sơ CV cho công việc đầu tiên 
+* Thành lập nhóm & ý tưởng dự án 
 
-## Còn chờ gì nữa, bấm vào link bên dưới để ứng tuyển ngay!
-
-<https://goo.gl/forms/3IaGXbMGnA0DePQ22>
+##
