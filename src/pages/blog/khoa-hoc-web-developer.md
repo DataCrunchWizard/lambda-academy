@@ -95,17 +95,17 @@ Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiệ
 * DEMO trình bày
 * Chuẩn bị hồ sơ CV cho công việc đầu tiên 
 
-
-
-# Bạn nhận đuợc gì sau khóa học 
+# Bạn nhận đuợc gì sau khóa học
 
 * Khóa học kết hợp lý thuyết căn bản & trải nghiệm dự án, chú trọng thời gian thực hành chiếm đến 80% khoá học, bao gồm tất cả những kiến thức cần thiết để học viên có thể trở thành một lập trình viên web chuyên nghiệp sau 8 tuần
 * Sau khi hoàn thành, bạn sẽ nhận đuợc chứng chỉ tốt nghiệp và đủ năng lực để có thể đi làm với vai trò **Junior Web Developer**
 * Được giới thiệu việc làm   
 
+# Huấn luyện viên là ai?
 
+Ngư học sẽ được hướng dẫn bởi những anh/chị kỹ sư có 5-10 năm kinh nghiệm đã từng thực hiện nhiều dự án và mà còn có bề dày thành tích làm việc thực tế tại nhiều công ty khác nhau. Tham gia khóa học, sinh viên không chỉ được trang bị đầy đủ về lý thuyết, mà còn được thực hành ngay với những dự án thực tế của các công ty , qua đó làm quen với môi trường làm việc đầy áp lực nhưng cũng nhiều cơ hội thành công của ngành lập trình.
 
-# Đơn đăng ký & Bài đánh giá đầu vào. 
+# Đơn đăng ký & Bài đánh giá đầu vào.
 
 <https://goo.gl/forms/3IaGXbMGnA0DePQ22>
 
