@@ -4,8 +4,7 @@ title: 'Khóa học Web Developer '
 date: 2018-01-06T15:04:10.000Z
 description: >-
   Khóa học trong 8 tuần giúp bạn có thể xây dựng một web application
-  hoàn chỉnh từ ban đầu. Học xong có việc làm ngay hoặc nhận được
-  đầu tư cho dự án của bạn. 
+  hoàn chỉnh từ ban đầu. Học xong có việc làm ngay.
 tags:
   - fullstack
   - javascript
