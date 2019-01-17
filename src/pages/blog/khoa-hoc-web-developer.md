@@ -24,7 +24,7 @@ tags:
 
 # Điều kiện tham gia khóa học:
 
-\- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình website và ứng dụng wep app  đáp ứng nhu cầu thực tế một cách nhanh chóng. 
+\- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình website và ứng dụng Web App  đáp ứng nhu cầu thực tế một cách nhanh chóng. 
 
 \- Yêu thích lập trình, không giới hạn độ tuổi. Ưu tiên học viên đã có kiến thức lập trình cơ bản. 
 
@@ -35,7 +35,7 @@ tags:
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
 * Thành lập nhóm & ý tưởng dự án 
-* Thiết lập môi trường làm việc (IDE) & sử dụng git để fork dự án mẫu 
+* Thiết lập môi trường làm việc (IDE) & làm quen với Git 
 * Học cách sử dụng HTML thay đổi nội dung Landing Page sản phẩm
 * Học cách sử dụng CSS để thay đổi giao diện Landing Page
 * Xuất bản sử dụng gitlab pages 
@@ -60,7 +60,7 @@ Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạn
 
 ## Tuần 4: HTTP/Ajax & Firebase
 
-Tìm hiểu về giao thức tương tác với Server và thử nhiệm với Firebase 
+Tìm hiểu về giao thức tương tác với Server và thử nghiệm với Firebase 
 
 * Tìm hiểu về Ajax và axios 
 * Đọc và nghiên cứu code Login/Logout/Registration
@@ -102,7 +102,7 @@ Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiệ
 
 # Huấn luyện viên là ai?
 
-Ngư học sẽ được hướng dẫn bởi những anh/chị kỹ sư có 5-10 năm kinh nghiệm đã từng thực hiện nhiều dự án và mà còn có bề dày thành tích làm việc thực tế tại nhiều công ty khác nhau. Tham gia khóa học, sinh viên không chỉ được trang bị đầy đủ về lý thuyết, mà còn được thực hành ngay với những dự án thực tế của các công ty , qua đó làm quen với môi trường làm việc đầy áp lực nhưng cũng nhiều cơ hội thành công của ngành lập trình.
+Người học sẽ được hướng dẫn bởi những anh/chị kỹ sư có 5-10 năm kinh nghiệm đã từng thực hiện nhiều dự án và có bề dày thành tích làm việc thực tế tại nhiều công ty khác nhau. Tham gia khóa học, sinh viên không chỉ được trang bị đầy đủ về lý thuyết, mà còn được thực hành ngay với những dự án thực tế của các công ty , qua đó làm quen với môi trường làm việc đầy áp lực nhưng cũng nhiều cơ hội thành công của ngành lập trình.
 
 # Đơn đăng ký & Bài đánh giá đầu vào.
 
