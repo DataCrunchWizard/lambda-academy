@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Khóa học Web Developer '
+title: Khóa học Trở thành Web Developer Chuyên Nghiệp Miễn Phí
 date: 2018-01-06T15:04:10.000Z
 description: >-
   Khóa học trong 8 tuần giúp bạn có thể xây dựng một web application
