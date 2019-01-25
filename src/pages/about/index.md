@@ -12,4 +12,4 @@ Tất cả những modules đều đi kèm với đầu ra là sản phâ
 
 ### Huấn luyện tận tâm
 
-Chúng tôi đào tạo bạn như là những huấn luyện viên thực chiến, chiến thắng & thành công của bạn chính là thành công của chúng tôi. Bất cứ khi nào bạn gặp thắc mắc hay khó khăn sẽ luôn nhận đựoc sự hỗ trợ giúp đỡ.
+Chúng tôi đào tạo bạn như là những huấn luyện viên thực chiến, chiến thắng & thành công của bạn chính là thành công của chúng tôi. Bất cứ khi nào bạn gặp thắc mắc hay khó khăn sẽ luôn nhận được sự hỗ trợ giúp đỡ.
