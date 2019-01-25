@@ -52,9 +52,9 @@ const Navbar = class extends React.Component {
         <Link className="navbar-item" to="/values">
           Điểm khác biệt
         </Link>
-        <Link className="navbar-item" to="https://freshers.lambdademy.com">
+        <a class="navbar-item" href="https://freshers.lambdademy.com">
                Cơ hội nghề nghệp
-        </Link>
+        </a>
         
       </div>
      
