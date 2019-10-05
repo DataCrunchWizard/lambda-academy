@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Khóa học React JS Miễn Phí
+title: Khóa học React JS Cơ Bản & Miễn Phí
 date: 2019-10-05T04:45:11.802Z
 description: >-
   Khóa học trong 3 tuần giúp bạn có thể nắm những kiến thức và kỹ năng cơ
@@ -13,9 +13,9 @@ tags:
 ---
 # Mục tiêu khóa học:
 
-\- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình Web mã nguồn mở Javascript/ES6  theo phiên bản mới nhất
+\- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình ReactJs
 
-\-  Trang bị cho học viên những kinh nghiệm để xây dựng website và web application  hoàn chỉnh trên nền sử dụng những Framework hiện đại nhất, giúp phát triển ứng dụng web một cách nhanh chóng và linh động
+\-  Trang bị cho học viên những kinh nghiệm để xây dựng website và web application  hoàn chỉnh trên nền ReactJs. 
 
 \- Giúp học viên làm quen với môi trường làm việc tại các công ty phần mềm.
 
@@ -103,6 +103,6 @@ Người học sẽ được hướng dẫn bởi những anh/chị kỹ sư c
 
 # Đơn đăng ký & Bài đánh giá đầu vào.
 
-<https://goo.gl/forms/3IaGXbMGnA0DePQ22>
+<https://forms.gle/3KgaB9Dh778mxzvq7>
 
 **Lưu ý**: vì đây là khóa học miễn phí, chúng tôi chỉ nhận từ 5-10 học viên mỗi khóa, thế nên sẽ ưu tiên cho những học viên đăng ký sớm.
