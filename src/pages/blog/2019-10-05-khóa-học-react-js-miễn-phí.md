@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Khóa học React JS Cơ Bản & Miễn Phí
+title: 3 tuần làm chủ React JS  Cơ Bản & Miễn Phí
 date: 2019-10-05T04:45:11.802Z
 description: >-
   Khóa học trong 3 tuần giúp bạn có thể nắm những kiến thức và kỹ năng cơ
@@ -29,7 +29,7 @@ tags:
 
 # Nội dung khóa học
 
-## Tuần 1: Web Foundations - HTML, CSS, Git
+## Tuần 1: Làm quen với ReactJs 
 
 Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
 
@@ -39,7 +39,7 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 * Học cách sử dụng CSS để thay đổi giao diện Landing Page
 * Xuất bản sử dụng gitlab pages 
 
-## Tuần 2: Web Application Development - JavaScript
+## Tuần 2: Thực hiện 1 mini webapp hoàn chỉnh 
 
 Bạn sẽ tiếp cận Javascript, một ngôn ngữ lập trình độc đáo. 
 
@@ -49,49 +49,13 @@ Bạn sẽ tiếp cận Javascript, một ngôn ngữ lập trình độc
 * Conditions, Loop
 * Errors & Debugging
 
-## Tuần 3: Vuejs
+## Tuần 3: Trình bày mini-project và kết thúc khoá học
 
 Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạnh để thực hiện những dự án lớn. 
 
 * Giới thiệu về Vuejs, Đối tượng, Cú pháp
 * Binding, Render theo điều kiện và danh sách 
 * Xử lý sự kiện 
-
-## Tuần 4: HTTP/Ajax & Firebase
-
-Tìm hiểu về giao thức tương tác với Server và thử nghiệm với Firebase 
-
-* Tìm hiểu về Ajax và axios 
-* Đọc và nghiên cứu code Login/Logout/Registration
-* Sử dụng Firebase để hoàn thiện trang danh mục và trang chi tiết 
-
-## Tuần 5: Lên ý tưởng đồ án và xây dựng Mockups
-
-Lúc này bạn sẽ bắt đầu ứng dụng những điều đã học vào xây dựng dự án thực tế đầu tay. Nội dung bao gồm:
-
-* Lên ý tưởng trên 1 trang giấy
-* Xây dựng kế hoạch và ứng dụng công cụ quản lý dự án Trello 
-* Sử dụng công cụ Mopups để phát thảo ý tưởng. 
-* Bắt tay vào code HTML/CSS cho trang đầu tiên. 
-
-## Tuần 6: Thực hiện MVP của đồ án & Vuejs Router
-
-Đây là lúc bạn bắt đầu thực hiện dự án của mình và học thêm 1 số kỹ thuật, công  cụ mới:
-
-* Vuejs Router
-* Google analytics , SEO 
-
-## Tuần 7: Hoàn thiện đồ án
-
-Bạn sẽ dành tuần này cùng nhóm của mình để hoàn thiện những chi tiết cuối cùng cho dự án dưới sự hỗ trợ của Huấn Luyện Viên. 
-
-## Tuần 8: Final Demo & Thi Tốt nghiệp
-
-Đây là lúc nhóm của bạn trình bày cho mọi người thành quả của mình, những việc cần thực hiện bao gồm:
-
-* Báo cáo tổng kết dự án 
-* DEMO trình bày
-* Chuẩn bị hồ sơ CV cho công việc đầu tiên 
 
 # Bạn nhận đuợc gì sau khóa học
 
