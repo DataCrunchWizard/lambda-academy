@@ -31,13 +31,11 @@ tags:
 
 ## Tuần 1: Làm quen với ReactJs 
 
-Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể bắt đầu làm việc.  Bao gồm:
+Bạn sẽ bắt đầu với những điều cơ bản nhất để có thể nắm rõ về ReactJs.  Bao gồm:
 
-* Thành lập nhóm & ý tưởng dự án 
-* Thiết lập môi trường làm việc (IDE) & làm quen với Git 
-* Học cách sử dụng HTML thay đổi nội dung Landing Page sản phẩm
-* Học cách sử dụng CSS để thay đổi giao diện Landing Page
-* Xuất bản sử dụng gitlab pages 
+* Thiết lập môi trường làm việc (IDE) & làm quen với Git
+* Những khái niệm cơ bản về ReactJs
+* Thực hành và xuất bản web app trên github pages
 
 ## Tuần 2: Thực hiện 1 mini webapp hoàn chỉnh 
 
