@@ -13,17 +13,19 @@ tags:
 ---
 # Mục tiêu khóa học:
 
-\- Cung cấp cho học viên những kiến thức và  kỹ năng cần thiết về lập trình ReactJs
+\- Cung cấp cho học viên những kiến thức và  kỹ năng cơ bản cần thiết về lập trình ReactJs
 
-\-  Trang bị cho học viên những kinh nghiệm để xây dựng website và web application  hoàn chỉnh trên nền ReactJs. 
+\-  Trang bị cho học viên những kinh nghiệm deploy web application  trên nền ReactJs. 
 
 \- Giúp học viên làm quen với môi trường làm việc tại các công ty phần mềm.
 
 # Điều kiện tham gia khóa học:
 
+\- Ưu tiên học viên đã có kiến thức lập trình cơ bản và kiến thức lập trình web HTML/CSS/Javascript
+
 \- Tất cả những ai muốn tìm hiểu kỹ về kỹ thuật lập trình website và ứng dụng Web App  đáp ứng nhu cầu thực tế một cách nhanh chóng. 
 
-\- Yêu thích lập trình, không giới hạn độ tuổi. Ưu tiên học viên đã có kiến thức lập trình cơ bản. 
+\- Yêu thích lập trình, không giới hạn độ tuổi. 
 
 # Nội dung khóa học
 
