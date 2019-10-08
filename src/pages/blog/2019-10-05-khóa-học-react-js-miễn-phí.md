@@ -37,29 +37,27 @@ Bạn sẽ bắt đầu với những điều cơ bản nhất để có
 * Những khái niệm cơ bản về ReactJs
 * Thực hành và xuất bản web app trên github pages
 
-## Tuần 2: Thực hiện 1 mini webapp hoàn chỉnh 
+## Tuần 2: Thực hiện 1 mini game hoàn chỉnh 
 
-Bạn sẽ tiếp cận Javascript, một ngôn ngữ lập trình độc đáo. 
+Bạn sẽ thực hiện 1 mini web app đơn giản nhưng hoàn chỉnh từ A-Z. 
 
-* Syntax, Comments, Variables, Operators 
-* Data Types, Functions 
-* Objects, Strings, Numbers, Arrays
-* Conditions, Loop
-* Errors & Debugging
+* Tìm hiểu về game cần xây dựng 
+* Xây dựng 1 Component có thể tương tác được
+* Hoàn chỉnh game và xuất bản
 
-## Tuần 3: Trình bày mini-project và kết thúc khoá học
+## Tuần 3: Thực hiện mini-project và kết thúc khoá học
 
-Bạn sẽ làm quen với framework cực kỳ đơn giản và đủ mạnh để thực hiện những dự án lớn. 
+Bạn sẽ thực hiện 1 project mini theo ý tưởng của mình và trình bày.
 
-* Giới thiệu về Vuejs, Đối tượng, Cú pháp
-* Binding, Render theo điều kiện và danh sách 
-* Xử lý sự kiện 
+* Lên ý tưởng
+* Xây dựng mock ups 
+* Thực hiện và hoàn chỉnh
 
 # Bạn nhận đuợc gì sau khóa học
 
-* Khóa học kết hợp lý thuyết căn bản & trải nghiệm dự án, chú trọng thời gian thực hành chiếm đến 80% khoá học, bao gồm tất cả những kiến thức cần thiết để học viên có thể trở thành một lập trình viên web chuyên nghiệp sau 8 tuần
-* Sau khi hoàn thành, bạn sẽ nhận đuợc chứng chỉ tốt nghiệp và đủ năng lực để có thể đi làm với vai trò **Junior Web Developer**
-* Được giới thiệu việc làm   
+* Khóa học kết hợp lý thuyết căn bản & trải nghiệm dự án, chú trọng thời gian thực hành chiếm đến 80% khoá học
+* Sau khi hoàn thành, bạn sẽ đủ năng lực để có thể đi thực tập với vai trò** React Web Developer**
+* Được giới thiệu việc làm sau khoá học 
 
 # Huấn luyện viên là ai?
 
