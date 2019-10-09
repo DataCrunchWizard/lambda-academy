@@ -11,6 +11,8 @@ tags:
   - react native
   - react basic
 ---
+![](/img/why-we-use-reactjs-for-our-projects-illustration.jpg)
+
 # Mục tiêu khóa học:
 
 \- Cung cấp cho học viên những kiến thức và  kỹ năng cơ bản cần thiết về lập trình ReactJs
